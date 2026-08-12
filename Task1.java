@@ -11,10 +11,9 @@ public class Task1{
             arr[i]=sc.nextInt();
         }
         System.out.println("10% ratio of given elements are:");
-        Arrays.stream(arr).map(x->x+(x*10)/100).forEach(System.out::println);
-       
-        
-
+        Arrays.stream(arr)
+        .map(x->x+(x*10)/100)
+        .forEach(System.out::println);
     }
 
 }
