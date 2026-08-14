@@ -1,0 +1,9 @@
+PS C:\Users\yasawanth\Downloads\FunctionalJava> javac Task6.java
+PS C:\Users\yasawanth\Downloads\FunctionalJava> java Task6      
+3
+Bike 10
+Cab 15
+Auto 8
+50
+180
+96
