@@ -1,0 +1,4 @@
+PS C:\Users\yasawanth\Downloads\FunctionalJava> javac Task9.java
+PS C:\Users\yasawanth\Downloads\FunctionalJava> java Task9      
+10 + 20
+Test Passed
