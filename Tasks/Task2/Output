@@ -1,0 +1,13 @@
+PS C:\Users\yasawanth\Downloads\FunctionalJava> javac Task2.java
+PS C:\Users\yasawanth\Downloads\FunctionalJava> java Task2      
+6
+S1 60
+S2 40
+S1 80
+S3 70
+S2 90
+S3 30
+Output
+S2 90.0
+S3 70.0
+S1 70.0
