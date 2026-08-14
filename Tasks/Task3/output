@@ -1,0 +1,7 @@
+PS C:\Users\yasawanth\Downloads\FunctionalJava> javac Task3.java
+PS C:\Users\yasawanth\Downloads\FunctionalJava> java Task3      
+Enter no.of values:
+8
+Enter Values:
+-2 -3 4 -1 -2 1 5 -3
+Max Possible Profitable is:7
