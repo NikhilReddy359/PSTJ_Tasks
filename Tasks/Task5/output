@@ -1,0 +1,7 @@
+PS C:\Users\yasawanth\Downloads\FunctionalJava> javac Task5.java
+PS C:\Users\yasawanth\Downloads\FunctionalJava> java Task5      
+3
+Deposit 5000
+Withdraw 2000
+Deposit 1000
+4000
