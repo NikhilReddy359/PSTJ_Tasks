@@ -1,0 +1,9 @@
+PS C:\Users\yasawanth\Downloads\FunctionalJava> javac Task10.java
+PS C:\Users\yasawanth\Downloads\FunctionalJava> java Task10      
+3
+admin admin123
+ab 123
+user pass
+SUCCESS
+FAILURE
+FAILURE
