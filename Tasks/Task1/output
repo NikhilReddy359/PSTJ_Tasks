@@ -1,0 +1,7 @@
+PS C:\Users\yasawanth\Downloads\FunctionalJava> javac Task1.java
+PS C:\Users\yasawanth\Downloads\FunctionalJava> java Task1      
+Enter n
+5
+Enter 5 elements in array:1000 1500 2000 2500 3000
+10% ratio of given elements are:
+1100 1650 2200 2750 3300 
