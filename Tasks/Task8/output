@@ -1,0 +1,9 @@
+PS C:\Users\yasawanth\Downloads\FunctionalJava> javac Task8.java
+PS C:\Users\yasawanth\Downloads\FunctionalJava> java Task8      
+5 4
+1 2
+2 3
+3 4
+4 5
+1 5
+YES
