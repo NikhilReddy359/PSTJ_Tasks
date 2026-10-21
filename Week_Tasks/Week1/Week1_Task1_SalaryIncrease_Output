@@ -1,0 +1,8 @@
+PS C:\Users\yasawanth\Downloads\FunctionalJava> javac Task1.java
+PS C:\Users\yasawanth\Downloads\FunctionalJava> java Task1
+Enter n
+5
+Enter 5 elements in array:10 20 30 40 50
+10% ratio of given elements are:
+11 22 33 44 55 
+PS C:\Users\yasawanth\Downloads\FunctionalJava>
